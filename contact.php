@@ -13,7 +13,9 @@
                 <img src="images/map.gif">
             </td>
             <td width="190" bgcolor="#FFFF66"><ul>
+
 				<li><a href="home.php">9b</li>
+
 				<li><a href="room.php">ห้องพัก&ราคา</li>
 				<li><a herf="guest.php">สมุดเยี่ยม</li>
 				<li><a href="contact.php">ติดต่อเราาาา</li>
